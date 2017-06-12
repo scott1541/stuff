@@ -1,0 +1,7 @@
+[debug] Starting sandboxed run...
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main to exit
+[debug] Getting compiler-interface from component compiler for Scala 2.10.2
+[debug] Getting compiler-interface from component compiler for Scala 2.10.2
+[info] Starting scala interpreter...
+[info] 
